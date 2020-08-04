@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "rm -rf dist *.tsbuildinfo && tsc --build && node ."
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
