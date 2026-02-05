@@ -49,7 +49,7 @@ CLI application that reads colors from standard input and finds the perceptually
 <sup>Rust</sup>
 
 **[battle-cobras](https://github.com/mkantor/battle-cobras)**  
-Experimental game for Kabam Hack-a-thon 2  
+Experimental game developed during a hackathon  
 <sup>JavaScript</sup>
 
-<!-- updated 2026-02-05T15:03:50.217Z -->
+<!-- updated 2026-02-05T15:06:25.443Z -->
