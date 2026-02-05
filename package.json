@@ -1,13 +1,16 @@
 {
   "name": "",
   "version": "0.0.0",
-  "main": "dist/index.js",
+  "main": "generate.ts",
   "type": "module",
   "scripts": {
-    "start": "rm -rf dist *.tsbuildinfo && tsc --build && node ."
+    "start": "node . > README.md"
   },
   "devDependencies": {
     "@types/node": "latest",
     "typescript": "latest"
+  },
+  "dependencies": {
+    "happy-dom": "^20.5.0"
   }
 }
