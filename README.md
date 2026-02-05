@@ -40,4 +40,16 @@ A model of the standard Option algebraic data type along with associated utility
 Script to decode & print source code from a TypeScript Playground URL  
 <sup>TypeScript</sup>
 
-<!-- updated 2026-02-05T14:41:00.150Z -->
+**[node-json5-parser](https://github.com/mkantor/node-json5-parser)**  
+Scanner and parser for JSON5  
+<sup>TypeScript</sup>
+
+**[color-id](https://github.com/mkantor/color-id)**  
+CLI application that reads colors from standard input and finds the perceptually-nearest color out of a set of "parent" colors  
+<sup>Rust</sup>
+
+**[battle-cobras](https://github.com/mkantor/battle-cobras)**  
+Experimental game for Kabam Hack-a-thon 2  
+<sup>JavaScript</sup>
+
+<!-- updated 2026-02-05T15:03:50.217Z -->
