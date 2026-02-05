@@ -36,11 +36,11 @@ const featuredRepositories = [...featuredRepositoryListItems.values()].map(
     }
 
     return {
-      url,
+      url: new URL(url, 'https://github.com'),
       name: url.replace(`/${username}/`, ''),
       description: description.textContent.trim(),
       programmingLanguage: programmingLanguage.textContent.trim(),
-    } satisfies Record<PropertyKey, string>
+    } satisfies Record<PropertyKey, string | URL>
   },
 )
 
@@ -48,7 +48,7 @@ const readmeContents = `## Projects
 ${featuredRepositories.reduce(
   // Whitespace is important here.
   (markdown, repository) => `${markdown}
-**[${repository.name}](${repository.url})**  
+**[${repository.name}](${repository.url.href})**  
 ${repository.description}  
 <sup>${repository.programmingLanguage}</sup>
 `,
