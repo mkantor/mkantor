@@ -1,7 +1,7 @@
 ## Projects
 
 **[gauze](https://github.com/mkantor/gauze)**  
-Streamable terminal styles/commands via JSX  
+Terminal styles/commands via JSX  
 <sup>TypeScript</sup>
 
 **[silk](https://github.com/mkantor/silk)**  
@@ -9,15 +9,15 @@ Streaming HTML from JSX
 <sup>TypeScript</sup>
 
 **[please-lang-prototype](https://github.com/mkantor/please-lang-prototype)**  
-An arborescent programming language  
+A functional programming language oriented around edge-labeled trees  
 <sup>TypeScript</sup>
 
 **[loom](https://github.com/mkantor/loom)**  
-Stream-oriented web server with filesystem-based routing  
+Streaming web server for Node.js with filesystem-based routing  
 <sup>TypeScript</sup>
 
 **[operator](https://github.com/mkantor/operator)**  
-A web server for static and dynamic content  
+Web server driven by handlebars templates, native executables, and static files  
 <sup>Rust</sup>
 
 **[docker-pushmi-pullyu](https://github.com/mkantor/docker-pushmi-pullyu)**  
@@ -49,7 +49,7 @@ CLI application that reads colors from standard input and finds the perceptually
 <sup>Rust</sup>
 
 **[battle-cobras](https://github.com/mkantor/battle-cobras)**  
-Experimental game developed during a hackathon  
+Massively-multiplayer snake (hackathon project)  
 <sup>JavaScript</sup>
 
-<!-- updated 2026-02-05T15:06:25.443Z -->
+<!-- updated 2026-02-06T15:27:51.808Z -->
