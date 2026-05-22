@@ -4,13 +4,21 @@
 A functional programming language oriented around edge-labeled trees  
 <sup>TypeScript</sup>
 
+**[either](https://github.com/mkantor/either)**  
+A model of the standard Either algebraic data type along with associated utility functions  
+<sup>TypeScript</sup>
+
+**[option](https://github.com/mkantor/option)**  
+A model of the standard Option algebraic data type along with associated utility functions  
+<sup>TypeScript</sup>
+
+**[loom](https://github.com/mkantor/loom)**  
+Streaming web server for Node.js with filesystem-based routing  
+<sup>TypeScript</sup>
+
 **[gauze](https://github.com/mkantor/gauze)**  
 Terminal styles/commands via JSX  
 <sup>TypeScript</sup>
-
-**[operator](https://github.com/mkantor/operator)**  
-Web server driven by handlebars templates, native executables, and static files  
-<sup>Rust</sup>
 
 **[parsing](https://github.com/mkantor/parsing)**  
 A parser combinator library  
@@ -20,24 +28,16 @@ A parser combinator library
 Streaming HTML from JSX  
 <sup>TypeScript</sup>
 
-**[loom](https://github.com/mkantor/loom)**  
-Streaming web server for Node.js with filesystem-based routing  
-<sup>TypeScript</sup>
+**[operator](https://github.com/mkantor/operator)**  
+Web server driven by handlebars templates, native executables, and static files  
+<sup>Rust</sup>
 
 **[docker-pushmi-pullyu](https://github.com/mkantor/docker-pushmi-pullyu)**  
 Copy Docker images directly to a remote host without using Docker Hub or a hosted registry  
 <sup>Shell</sup>
 
-**[either](https://github.com/mkantor/either)**  
-A model of the standard Either algebraic data type along with associated utility functions  
-<sup>TypeScript</sup>
-
 **[code-from-ts-playground-url](https://github.com/mkantor/code-from-ts-playground-url)**  
 Script to decode & print source code from a TypeScript Playground URL  
-<sup>TypeScript</sup>
-
-**[option](https://github.com/mkantor/option)**  
-A model of the standard Option algebraic data type along with associated utility functions  
 <sup>TypeScript</sup>
 
 **[node-json5-parser](https://github.com/mkantor/node-json5-parser)**  
@@ -52,4 +52,4 @@ Find perceptually-nearest matches for colors from a palette
 Massively-multiplayer snake (hackathon project)  
 <sup>JavaScript</sup>
 
-<!-- updated 2026-02-28T19:50:48.574Z -->
+<!-- updated 2026-05-22T20:33:14.477Z -->
