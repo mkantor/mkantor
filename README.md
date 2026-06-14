@@ -1,19 +1,19 @@
 ## Projects
 
-**[please-lang-prototype](https://github.com/mkantor/please-lang-prototype)**  
+**[please-lang](https://github.com/mkantor/please-lang)**  
 A functional programming language oriented around edge-labeled trees  
 <sup>TypeScript</sup>
 
-**[either](https://github.com/mkantor/either)**  
-A model of the standard Either algebraic data type along with associated utility functions  
-<sup>TypeScript</sup>
+**[operator](https://github.com/mkantor/operator)**  
+Web server driven by handlebars templates, native executables, and static files  
+<sup>Rust</sup>
 
 **[option](https://github.com/mkantor/option)**  
 A model of the standard Option algebraic data type along with associated utility functions  
 <sup>TypeScript</sup>
 
-**[loom](https://github.com/mkantor/loom)**  
-Streaming web server for Node.js with filesystem-based routing  
+**[either](https://github.com/mkantor/either)**  
+A model of the standard Either algebraic data type along with associated utility functions  
 <sup>TypeScript</sup>
 
 **[gauze](https://github.com/mkantor/gauze)**  
@@ -28,9 +28,9 @@ A parser combinator library
 Streaming HTML from JSX  
 <sup>TypeScript</sup>
 
-**[operator](https://github.com/mkantor/operator)**  
-Web server driven by handlebars templates, native executables, and static files  
-<sup>Rust</sup>
+**[loom](https://github.com/mkantor/loom)**  
+Streaming web server for Node.js with filesystem-based routing  
+<sup>TypeScript</sup>
 
 **[docker-pushmi-pullyu](https://github.com/mkantor/docker-pushmi-pullyu)**  
 Copy Docker images directly to a remote host without using Docker Hub or a hosted registry  
@@ -52,4 +52,4 @@ Find perceptually-nearest matches for colors from a palette
 Massively-multiplayer snake (hackathon project)  
 <sup>JavaScript</sup>
 
-<!-- updated 2026-05-22T20:33:14.477Z -->
+<!-- updated 2026-06-14T19:45:43.328Z -->
